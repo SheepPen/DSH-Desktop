@@ -18,7 +18,7 @@ DeepSeek Harness 桌面客户端 v0.3.8
 ### 下载
 - **[DSH-Desktop-v0.3.8.zip](https://github.com/SheepPen/DSH-Desktop/releases/download/DSH-Desktop/DSH-Desktop-v0.3.8.zip)**
 - `DSH-Desktop-v0.3.8.zip`：压缩包
-- 解压缩后得到DSH-Desktop解压包-0.3.7.exe
+- 解压缩后得到DSH-Desktop解压包-0.3.8.exe
 - 运行exe程序时，自动解压文件至当前目录
 - 解压完成时，自动运行程序
 - 第一次运行时，时间可能会久一点，请耐心等待
