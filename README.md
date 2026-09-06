@@ -1,4 +1,4 @@
-## DSH 桌面版 v0.3.8
+## DSH 桌面版 v0.4.0
 
 DeepSeek Harness 桌面客户端 v0.4.0
 
