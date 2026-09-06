@@ -13,7 +13,7 @@ DeepSeek Harness 桌面客户端 v0.4.0
 可以将安装文件放置在非C盘目录下，建议路径不要有中文。
 
 ### 下载
-- **[DSH-Desktop-v0.3.8.zip](https://github.com/SheepPen/DSH-Desktop/releases/download/DSH-Desktop/DSH-Desktop-v0.3.8.zip)**
+- **[DSH-Desktop-v0.4.0.zip](https://github.com/SheepPen/DSH-Desktop/releases/download/DSH-Desktop/DSH-Desktop-v0.4.0.zip)**
 - `DSH-Desktop-v0.4.0.zip`：压缩包
 - 解压缩后得到DSH-Desktop解压包-0.4.0.exe
 - 运行exe程序时，自动解压文件至当前目录
