@@ -1,13 +1,10 @@
 ## DSH 桌面版 v0.3.8
 
-DeepSeek Harness 桌面客户端 v0.3.8
+DeepSeek Harness 桌面客户端 v0.4.0
 
 这是由**DSH通过命令自我封装与添加功能**的桌面客户端
 
-<img width="959" height="600" alt="11" src="https://github.com/user-attachments/assets/6283ac0a-ba04-4183-9eb0-18c55f4d2614" />
-<img width="958" height="598" alt="22" src="https://github.com/user-attachments/assets/580a5609-70bb-420b-b77e-2f865bd1e593" />
-<img width="958" height="599" alt="33" src="https://github.com/user-attachments/assets/73e39cab-427b-4d29-8731-6b88b9df87b5" />
-<img width="958" height="596" alt="44" src="https://github.com/user-attachments/assets/98220fd7-28d3-4acc-afc5-50422cc4cf00" />
+
 
 
 
@@ -17,8 +14,8 @@ DeepSeek Harness 桌面客户端 v0.3.8
 
 ### 下载
 - **[DSH-Desktop-v0.3.8.zip](https://github.com/SheepPen/DSH-Desktop/releases/download/DSH-Desktop/DSH-Desktop-v0.3.8.zip)**
-- `DSH-Desktop-v0.3.8.zip`：压缩包
-- 解压缩后得到DSH-Desktop解压包-0.3.8.exe
+- `DSH-Desktop-v0.4.0.zip`：压缩包
+- 解压缩后得到DSH-Desktop解压包-0.4.0.exe
 - 运行exe程序时，自动解压文件至当前目录
 - 解压完成时，自动运行程序
 - 第一次运行时，时间可能会久一点，请耐心等待
@@ -43,9 +40,9 @@ DeepSeek Harness 桌面客户端 v0.3.8
 
 9.设置-通用设置增加合并记录，合并记录说明见下方
 
-10.设置-通用设置增加修复客户端，修复客户端说明见下方
+10.设置-通用设置增加回滚快照功能，可自定义时间，自动备份文件。
 
-11.设置-通用设置增加检查更新，可检测dsh官方版本，并更新
+11.设置-通用设置增加检查更新，可检测dsh内核版本，并更新
 
 
 ## 合并记录说明：
@@ -61,11 +58,5 @@ DeepSeek Harness 桌面客户端 v0.3.8
 注意：如果某些情况下客户端出错，用新客户端合并时，谨慎合并会话记录。偶有发生记录不全的现象。
 
 
-## 修复客户端说明：
 
-修复客户端目前的设定为，当客户端出现问题无法启动，具有自我修复的操作。
-
-出现问题后，可点击修复。也可在正常情况下通过设置里点击修复，用来检查问题。
-
-这项功能未得到充分测试，也许是无效的，也许只能当做一个状态查看器，不得而知。
 
