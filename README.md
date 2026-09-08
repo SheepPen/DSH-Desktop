@@ -1,6 +1,6 @@
-## DSH Desktop v0.4.0
+## DSH Desktop v0.4.1
 
-DeepSeek Harness 桌面客户端 v0.4.0（2026-09-05 发布）
+DeepSeek Harness 桌面客户端 v0.4.1（2026-09-08 发布）
 这是由 **DSH 通过命令自我封装与添加功能** 的桌面客户端
 
 <img width="961" height="601" alt="1" src="https://github.com/user-attachments/assets/87ae230c-22d2-4807-9adb-4ad13443820a" />
@@ -10,7 +10,7 @@ DeepSeek Harness 桌面客户端 v0.4.0（2026-09-05 发布）
 <img width="961" height="601" alt="5" src="https://github.com/user-attachments/assets/5e93cc9c-aaac-4545-b9b9-7127eb03174b" />
 
 
-**v0.4.0 更新内容**
+**v0.4.1 更新内容**
 - 内核升级：dsh 0.1.2-rc.1（不再 0.1.1），插件市场 dshmarket 升到 1.42.0（兼容 0.1.2 内核）
 - 新增插件兼容智能检测：更新前自动检测不兼容插件，官方插件自动升级，有新版则自动升级替代禁用
 - "通过代码添加" 按钮注入修复
@@ -20,8 +20,8 @@ DeepSeek Harness 桌面客户端 v0.4.0（2026-09-05 发布）
 可以将安装文件放置在非C盘目录下，建议路径不要有中文。
 
 ### 下载
-- **[DSH-Desktop-v0.4.0.zip](https://github.com/SheepPen/DSH-Desktop/releases/download/DSH-Desktop/DSH-Desktop-v0.4.0.zip)**
-- 压缩包解压后得到 DSH-Desktop解压包-0.4.0.exe
+- **[DSH-Desktop-v0.4.1.zip](https://github.com/SheepPen/DSH-Desktop/releases/download/DSH-Desktop/DSH-Desktop-v0.4.1.zip)**
+- 压缩包解压后得到 DSH-Desktop解压包-0.4.1.exe
 - 运行 exe 时自动解压文件至当前目录，解压完成自动运行程序
 - 第一次运行时时间可能久一点，请耐心等待
 
